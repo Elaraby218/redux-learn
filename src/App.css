@@ -55,3 +55,16 @@ form{
   flex-direction: column;
   width: 400px;
 }
+
+
+header {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: rgb(65, 61, 65);
+  color: whitesmoke;
+  position: sticky;
+  top: 0;
+  border-radius: 20px;
+}
